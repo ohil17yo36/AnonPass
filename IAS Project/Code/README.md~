@@ -1,0 +1,14 @@
+index.html - basic login, register and reup
+
+index2.html - same as index.html, used to show 'repeated login' instance
+
+web_service_login.html - to gain access to web service
+
+Client messages - browser console
+Server messages - terminal
+
+Web socket for communication (install pywebsocket python library)
+
+Enter mod_pywebsocket folder and run:
+
+
